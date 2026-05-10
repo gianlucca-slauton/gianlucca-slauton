@@ -125,10 +125,11 @@ style="padding-right: 15px;"
 alt="Amazon Web Services"
 title="Amazon Web Services"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<br>
+<br><br>
 
-<img 
-width="250px"
-height="160px"
-align="right"
-src="https://www.svgrepo.com/show/481270/cat-5.svg" />
+<div align="center">
+<img
+height="300px"
+src="https://github.com/user-attachments/assets/afc2a648-a98b-4ea0-9e93-6618ceebeecc" />
+</div>
+
