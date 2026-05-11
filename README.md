@@ -8,7 +8,7 @@ Atualmente no primeiro semestre do curso de Desenvolvimento de Sistemas, estou d
 Embora esteja no início da formação, tenho clareza sobre onde quero chegar: atuar no desenvolvimento de soluções tecnológicas eficientes, escaláveis e que gerem impacto real para usuários e empresas.
 
 
-## 🌎 English Version
+## English Version
 
 Currently in the first semester of a Systems Development course, I am taking my first steps into the technology field, focusing on building a solid foundation in programming logic, software development, and system fundamentals. <br>
 Although I am still at the beginning of my journey, I have a clear vision of where I want to go: developing efficient, scalable technological solutions that create real impact for users and companies.
