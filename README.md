@@ -15,7 +15,7 @@ Although I am still at the beginning of my journey, I have a clear vision of whe
 
 ---
 
-## My portfolio
+### My portfolio
 <a href="https://gianlucca-slauton.github.io/portfolio/" target="_blank" >https://gianlucca-slauton.github.io/portfolio/</a> <br>
 
 
